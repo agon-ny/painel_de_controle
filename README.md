@@ -28,4 +28,4 @@ Adicione seu website no arquivo **index.php** logo após a tag PHP. Use qualquer
 
 ## Considerações Finais
 
-Este é um projeto Júnior feito em PHP puro com várias outras features ainda a serem adicionadas.
+Este é um projeto Júnior feito em PHP puro com várias outras features ainda a serem adicionadas...
