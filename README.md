@@ -1,12 +1,12 @@
-### Painel de Controle para WebSite
+### Control Panel for your Website
 
-## Features
+## Resources
 
-* **Contador de Visitas**: Contador de usuários online, visitas e visitas totais em tempo real.
-* **Sistema de Usuários**: Sistema de login para Administradores do painel. Administrador/Usuário comum.
-* **Sistema de controle de imagens**: Em desenvolvimento.
+* **Counter of visits**: Counter of online users, visits and atal visits in real time.
+* **Users System**: Login system for Panel Administrators. Administrator/Common User.
+* **Image control system**: Soon :).
 
-## Tecnologias/Requisitos
+## Technologies/Requirements
 
 * **PHP**
 * **JavaScript**
@@ -15,17 +15,25 @@
 * **HTML**
 * **CSS**
 
-### Rodar sistema em servidor local. Implementação:
+### Run system on local server. Implementation:
 
-## Base de Dados
+## Server
 
-Todas as tabelas estão contidas no arquivo **painel_de_controle**. Importe a base de dados para o seu servidor mysql e altere o nome da base de dados no arquivo **config.php** se necessário.
-Todas as informação de banco de dados estão contidas no arquivo **config.php**.
+Xampp recommended. If you're running the application on pure apache2/nginx server you must add a **.htaccess** file in order to change the urls.
 
-## Implementação
+## Data base
 
-Adicione seu website no arquivo **index.php** logo após a tag PHP. Use qualquer arquivo javascript o adicionando na pasta **scripts** e arquivos css na pasta **style**.
+All tables are contained in the **control_panel** file. Import a database to your mysql server and change the database name in the **config.php** file if necessary.
+All database information contained in the **config.php** file.
 
-## Considerações Finais
+## Implementation
 
-Este é um projeto Júnior feito em PHP puro com várias outras features ainda a serem adicionadas...
+your site in the **index.php** file right after a PHP tag. Use any javascript file or adding in **scripts** folder and css files in **style** folder.
+
+## Cookies
+
+Cookies are crucial key for the online users counter, so make sure to allow your browser to use cookies.
+
+## Final considerations
+
+This is a Junior project made in pure PHP with several other features of the project yet to be added...

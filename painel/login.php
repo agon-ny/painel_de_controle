@@ -34,7 +34,7 @@
             <div class="left-side">
 
                 <div class="logo">
-                    <img src="<?php echo PATH_PAINEL; ?>style/images/logo-purple.jpg"/>
+                    <img><h1>Logo</h1></img>
                 </div>
               
                 <div class="square square-shape"></div>

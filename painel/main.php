@@ -23,7 +23,7 @@
             <div class="panel-navsidebar">
                 <header>
                     <div class="sidebar-logo">
-                        <img src="<?php echo PATH_PAINEL; ?>style/images/logo-blackwhite-croped.png"></img>
+                        <h1>Logo</h1>
                     </div>
                 </header>
 

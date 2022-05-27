@@ -1,6 +1,7 @@
 <?php
     include('config.php');
 
+    //FUNCTION TO STORE NEW USERS DATA
     Site::updateUsuarioOnline();
     Site::contador();
 

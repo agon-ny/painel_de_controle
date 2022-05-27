@@ -7,8 +7,8 @@
     session_start();
 
     //Constantes
-    define('PATH','http://localhost/vendasweb/');
-    define('PATH_PAINEL','http://localhost/vendasweb/painel/');
+    define('PATH','http://localhost/painel_de_controle/');
+    define('PATH_PAINEL','http://localhost/painel_de_controle/painel/');
     define('HOST','localhost');
     //CHANGE THE DBNAME IF YOU NEED TO
     //TROQUE O NOME DA SUA BASE DE DADOS SE DESEJAR
